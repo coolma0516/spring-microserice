@@ -1,0 +1,5 @@
+include ':api'
+include ':microservices:product-service'
+include ':midroservices:review-service'
+include ':microservices:recommendation-service'
+include ':microservices:product-composite-service'
